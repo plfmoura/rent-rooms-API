@@ -1,0 +1,284 @@
+{
+    "apartments": [
+        {   
+            "id": 0,
+            "type": 1,
+            "image": [
+                "",
+                "",
+                ""
+            ],
+            "name": "",
+            "description": "",
+            "star": 5.0,
+            "address":  {
+                "country": "Brazil",
+                "district": ""
+            },
+            "room": {
+                "guest": 10,
+                "bedroom": 5,
+                "bed": 10,
+                "bathroom": 7
+            },
+            "rent-status": false,
+            "owner": {
+                "name": "",
+                "photo": "",
+                "status": "",
+                "member-since": 2023
+            },
+            "price": 0 
+        },
+        {   
+            "id": 1,
+            "type": 1,
+            "image": [
+                "https://a0.muscache.com/im/pictures/b5619c14-5973-4c3c-825e-9ea97a3de6e4.jpg?im_w=960",
+                "https://a0.muscache.com/im/pictures/fe5a699d-332c-4afd-aa43-ca93b71105d7.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/a90731aa-9a50-413d-bb4f-40cc4e869366.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/9cca6ebd-b784-44b7-a5ee-35ce3aa84dc6.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/0ece1450-8e2c-44b4-ab2a-e1e46bbb7b6d.jpg?im_w=1200"
+            ],
+            "name": "Cobertura Duplex Cabo Frio - Praia das Dunas",
+            "description": "",
+            "star": 4.7,
+            "address":  {
+                "country": "Brazil",
+                "district": "Braga, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 10,
+                "bedroom": 5,
+                "bed": 10,
+                "bathroom": 7
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Felipe",
+                "photo": "https://a0.muscache.com/im/pictures/user/5f23dcc3-21cf-4ae1-b0bb-eb6b9ad64774.jpg?aki_policy=profile_large",
+                "status": "SuperHost",
+                "member-since": 2020
+            },
+            "price": 280 
+        },
+        {
+            "id": 2,
+            "type": 2,
+            "image": [
+                "https://a0.muscache.com/im/pictures/cf296f82-70fe-41de-a436-ee613695fbfd.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/d71212dd-871a-4232-9d27-c10e6660a649.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/768db84f-fe58-47b4-970d-752dea39650b.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/0da5366a-c123-4f0d-9e12-dea65870b1f0.jpg?im_w=1200"
+            ],
+            "name": "lha Privativa de Altíssimo Padrão – ANG005",
+            "description": "You naturally want the very best in luxury accomodations for your family and friends as well as yourself. Right? Well, there’s nothing more luxurious and prestigious as having your own 2.5h area private island in Angra dos Reis near Rio in Brazil for your next vacation, family reunion, or business meeting.",
+            "star": 4.9,
+            "address":  {
+                "country": "Brazil",
+                "district": "Centro, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 10,
+                "bedroom": 5,
+                "bed": 10,
+                "bathroom": 7
+            },
+
+            "rent-status": true,
+            "owner": {
+                "name": "Luxury Worldwide",
+                "photo": "https://a0.muscache.com/im/pictures/user/fe5c8672-0986-4106-9a9e-e3ba1c893b18.jpg?im_w=240",
+                "status": "Agency",
+                "member-since": 2010
+            },
+            "price": 18.428
+        },
+        {
+            "id": 3,
+            "type": 2,
+            "image": [
+                "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49582110/original/5617cd32-f94a-4441-918f-ea0ea4c8a282.jpeg?im_w=960",
+                "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49582110/original/d3e28473-7655-44f0-b3c4-ba912646190f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49582110/original/2c924bbc-aaf1-489b-bd96-cd3dba54c400.jpeg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49582110/original/9f9cee95-7d60-4abd-a205-9769dafd089e.jpeg?im_w=1200"
+            ],
+            "name":"Ang012 - Linda villa de praia em Angra dos Reis",
+            "description":"Essa linda e espaçosa casa pé na areia em Angra dos Reis fica no condominio Caieirinha, seguranças rodando a area 24 horas entre terra e mar, trazendo conforto e segurança para sua familia.",
+            "star": 5.0,
+            "address":  {
+                "country": "Brazil",
+                "district": "Camorim, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 13,
+                "bedroom": 6,
+                "bed": 8,
+                "bathroom": 5
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Latim Luxury",
+                "photo": "https://a0.muscache.com/im/pictures/user/b6bbb250-e599-48dd-877f-d5e36294a871.jpg?aki_policy=profile_large",
+                "status": "Agency",
+                "member-since": 2015
+            },
+            "price": 14.351 
+        },
+        {   
+            "id": 4,
+            "type": 1,
+            "image": [
+                "https://a0.muscache.com/im/pictures/df742814-daf7-4817-b016-35ac7a0e3571.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/bbb33c1e-2954-441c-ac30-fcb0151fe24b.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/c6dcc92b-e0da-47e1-b7b0-7357f7bbb4fc.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-22505032/original/954e0174-e596-48be-b84c-12d7234a0655.jpeg?im_w=1200"
+            ],
+            "name": "Spectacular Beachfront Ipanema",
+            "description": "This spectacular oceanfront apt in the best location of Ipanema features modern decor, incredible views, daily maid service and all the comforts of a hotel.",
+            "star": 4.8,
+            "address":  {
+                "country": "Brazil",
+                "district": "Ipanema, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 5,
+                "bedroom": 2,
+                "bed": 3,
+                "bathroom": 2
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Sthepan",
+                "photo": "https://a0.muscache.com/im/pictures/user/2d79683e-217d-47a6-865b-60af096b4ffa.jpg?im_w=240",
+                "status": "SuperHost",
+                "member-since": 2019
+            },
+            "price": 1.817
+        },
+        {   
+            "id": 5,
+            "type": 2,
+            "image": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-574462715333483320/original/a55c4b54-b30d-49d3-90ae-7ab9c05f8728.jpeg?im_w=960",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-574462715333483320/original/c46e3888-5adc-4373-8bde-45bbf171ac13.jpeg?im_w=960",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-574462715333483320/original/f03a32ad-6664-4d83-b293-80c718dec7ea.jpeg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/ddd71b7a-7f97-4291-a064-ef5dcc0e5957.jpg?im_w=1200"
+            ],
+            "name": "Chalé (A)MAR - agradável chalé pé na areia",
+            "description": "Agradável chalé, pé na areia, em frente ao maravilhoso mar azul e pôr do sol de Arraial do Cabo. Disfrute de nossos decks, superior e inferior, com uma vista deslumbrante, em ambiente relaxante. Nosso chalé é finamente acabado, decorado com estilo casual, e está equipado com cozinha com utensílios. Estamos a 6,5 km, 13 minutos, do aeroporto de Cabo Frio-RJ. Relaxe neste espaço calmo e cheio de estilo!",
+            "star": 4.7,
+            "address":  {
+                "country": "Brazil",
+                "district": "Cabo Frio, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 4,
+                "bedroom": 2,
+                "bed": 3,
+                "bathroom": 2
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Larissa",
+                "photo": "https://a0.muscache.com/im/pictures/user/49f5a62d-11eb-4277-9ea1-f0822435d855.jpg?im_w=240",
+                "status": "SuperHost",
+                "member-since": 2011
+            },
+            "price": 585 
+        },
+        {   
+            "id": 6,
+            "type": 2,
+            "image": [
+                "https://a0.muscache.com/im/pictures/e10904f4-27c8-42cd-b34a-c9acbf0b2aee.jpg?im_w=960",
+                "https://a0.muscache.com/im/pictures/5cbda704-9c18-4ffc-b6c9-15b9bc3e1370.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/19d1fdac-737b-4dad-8789-632213c7cc5c.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/83b2c14b-1dfb-4503-8e0d-64b678d3690a.jpg?im_w=1200"
+            ],
+            "name": "Itacoatiara Design cinematografica",
+            "description": "Casa com vista CINEMATOGRÁFICA localizada na prainha de itacoatiara ,quartos com vista completa da praia . a poucos metros da areia , totalmente decorada e acomoda até 2 CASAIS. Deck com churrasqueira sobre o mar, netflix, internet 120 MEGAS",
+            "star": 4.9,
+            "address":  {
+                "country": "Brazil",
+                "district": "Itacoatiara, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 4,
+                "bedroom": 2,
+                "bed": 2,
+                "bathroom": 2
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Luiz",
+                "photo": "https://a0.muscache.com/im/pictures/user/88f50fbc-cec4-4782-b0cb-051487aa03d5.jpg?im_w=240",
+                "status": "SuperHost",
+                "member-since": 2020
+            },
+            "price": 817 
+        },
+        {   
+            "id": 7,
+            "type": 1,
+            "image": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-48148677/original/e3b097d2-8532-49cf-bee9-928ccbbd21c4.jpeg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-48148677/original/b330a03f-69f2-467f-bc63-c0a61745c898.jpeg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-48148677/original/84b33fad-c166-4e9f-b57a-078c4d2940a2.jpeg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-48148677/original/f7533c76-b0c7-4344-9bd5-8e6fe21cbca7.jpeg?im_w=1200"
+            ],
+            "name": "Apartamento, vista p/ o mar, natureza e descanso.",
+            "description": "Apartamento novo, moderno e com uma visão lindíssima da ilha dos arrependidos  e mais atrás a vista para ilha grande e vila do Abraão de Angra dos Reis.",
+            "star": 5.0,
+            "address":  {
+                "country": "Brazil",
+                "district": "Conceição do Jacareí, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 4,
+                "bedroom": 3,
+                "bed": 5,
+                "bathroom": 3
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Rodrigo",
+                "photo": "https://a0.muscache.com/im/pictures/user/1bae11c3-9292-425e-a017-76317d35881a.jpg?im_w=240",
+                "status": null,
+                "member-since": 2022
+            },
+            "price": 560 
+        },
+        {   
+            "id": 8,
+            "type": 1,
+            "image": [
+                "https://a0.muscache.com/im/pictures/6d4a11a9-b79d-4a71-816a-23b48195b82c.jpg?im_w=960",
+                "https://a0.muscache.com/im/pictures/fd9a9195-7e6c-41ca-bd64-eff2eda6558e.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/237dee2e-c769-41c4-90a1-1920df112efc.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/7966f2dc-469d-46fb-8083-0a16847cd002.jpg?im_w=1200"
+            ],
+            "name": "Apartamento Copacabana Mar",
+            "description": "O apartamento Copacabana Mar está localizado em frente a praia de Copacabana, na Av. Atlântica, que é uma das avenidas mais emblemáticas da cidade, com uma vista de cartão postal para o pão de açúcar.",
+            "star": 5.0,
+            "address":  {
+                "country": "Brazil",
+                "district": "Copacabana, Rio de Janeiro"
+            },
+            "room": {
+                "guest": 3,
+                "bedroom": 1,
+                "bed": 1,
+                "bathroom": 1
+            },
+            "rent-status": true,
+            "owner": {
+                "name": "Tiago",
+                "photo": "https://a0.muscache.com/im/pictures/user/107586cb-8c3d-4520-85f4-599ba1b5139b.jpg?im_w=240",
+                "status": null,
+                "member-since": 2023
+            },
+            "price": 359 
+        }
+    ]
+}
