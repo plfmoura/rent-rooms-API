@@ -4,4 +4,4 @@ types of announcement to rent
 -type 3 to hostel
 -type 4 to hotel
 
-- airbnb copy API
+airbnb copy API
